@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">User Contacts</string>
+    <string name="error_message">Error</string>
+    <string name="button_reload">Reload</string>
 </resources>
